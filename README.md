@@ -1,2 +1,2 @@
 # Inventory Management Basic
-This repository is for Group 5 project - Order Fulfilment and Logistics module.
+This repository is for Group 1 project - Item identification(SKU MANAGEMENT) and core store keeping.
